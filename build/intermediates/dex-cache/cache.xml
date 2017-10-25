@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\leena\Downloads\Smart Cart-20171024T192339Z-001\Smart Cart\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ea89aaf596fca16aa8e1b40403015280f5cb8b4">
+        <dex dex="C:\Users\leena\Downloads\Smart Cart-20171024T192339Z-001\Smart Cart\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0b3060dfade31e1dbdef79f39b4f080115a44787\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leena\Downloads\Smart Cart-20171024T192339Z-001\Smart Cart\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\leena\Downloads\Smart Cart-20171024T192339Z-001\Smart Cart\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9e31f1660036006a993bccb8bea8a92971cc022c\classes.dex" />
+    </item>
+
+</items>

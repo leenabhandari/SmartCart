@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<group android:checkableBehavior="single">-->
+        <!--<item-->
+            <!--android:id="@+id/nav_camera"-->
+            <!--android:icon="@drawable/ic_one"-->
+            <!--android:title="History" />-->
+
+    <!--</group>-->
+    <group android:checkableBehavior="single">
+
+
+            <item
+                android:id="@+id/nav_his"
+                android:icon="@android:drawable/ic_menu_recent_history"
+                android:title="History" />
+            <item
+                android:id="@+id/nav_prof"
+                android:icon="@android:drawable/ic_dialog_info"
+                android:title="Profile" />
+    </group>
+        <item android:title="Offers">
+            <menu>
+            <item
+                android:id="@+id/nav_deal"
+                android:icon="@android:drawable/star_on"
+                android:title="Festive Sale" />
+
+</menu>
+        </item>
+
+    <item android:title="Done Shopping">
+        <menu>
+            <item
+                android:title="Logout"
+                android:icon="@android:drawable/ic_lock_idle_charging"
+                android:id="@+id/nav_logout"
+                >
+
+            </item>
+        </menu>
+    </item>
+
+
+
+
+</menu>

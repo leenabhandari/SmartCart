@@ -1,0 +1,4 @@
+#Wed Oct 25 01:01:40 IST 2017
+base.0=C\:\\Users\\leena\\Downloads\\Smart Cart-20171024T192339Z-001\\Smart Cart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=C\:\\Users\\leena\\Downloads\\Smart Cart-20171024T192339Z-001\\Smart Cart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

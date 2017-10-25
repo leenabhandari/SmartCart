@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000204</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#46e3de</color>
+    <color name="foreground_material_light">#ffffff</color>
+    <color name="newp">#1b355e</color>
+    <color name="newb">#46e3de</color>
+</resources>

@@ -1,0 +1,7 @@
+#Wed Oct 25 09:01:40 IST 2017
+base.0=C\:\\Users\\leena\\Downloads\\Smart Cart-20171024T192339Z-001\\Smart Cart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9e31f1660036006a993bccb8bea8a92971cc022c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\leena\\Downloads\\Smart Cart-20171024T192339Z-001\\Smart Cart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0b3060dfade31e1dbdef79f39b4f080115a44787\\classes.dex
+base.1=C\:\\Users\\leena\\Downloads\\Smart Cart-20171024T192339Z-001\\Smart Cart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0b3060dfade31e1dbdef79f39b4f080115a44787
+file.0=C\:\\Users\\leena\\Downloads\\Smart Cart-20171024T192339Z-001\\Smart Cart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9e31f1660036006a993bccb8bea8a92971cc022c\\classes.dex

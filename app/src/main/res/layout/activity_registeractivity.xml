@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/zxing_status_text"
+    android:orientation="vertical"
+    tools:context="com.mk.smartcart.registeractivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/txtusern"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="textPersonName"
+            android:textColor="@color/newp"
+            android:textColorHighlight="@color/newp"
+            android:textColorHint="@color/newp"
+            android:textCursorDrawable="@color/newp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:id="@+id/txtpass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/txtusern"
+            android:layout_alignStart="@+id/txtusern"
+            android:layout_below="@+id/txtusern"
+            android:layout_marginTop="30dp"
+            android:ems="10"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:textColor="@color/newp"
+            android:textColorHighlight="@color/newp"
+            android:textColorHint="@color/newp" />
+
+        <EditText
+            android:id="@+id/txtbal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/txtpass"
+            android:layout_alignStart="@+id/txtpass"
+            android:layout_below="@+id/txtpass"
+            android:layout_marginTop="32dp"
+            android:ems="10"
+            android:hint="Balance"
+            android:inputType="textPersonName"
+            android:textColor="@color/newp"
+            android:textColorHighlight="@color/newp"
+            android:textColorHint="@color/newp" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/newp"
+            android:onClick="onRegister"
+            android:text="Register"
+            android:textColor="@color/zxing_status_text"
+            android:layout_below="@+id/txtPhone"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="46dp" />
+
+        <EditText
+            android:id="@+id/txtPhone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/txtbal"
+            android:layout_alignStart="@+id/txtbal"
+            android:layout_below="@+id/txtbal"
+            android:layout_marginTop="30dp"
+            android:ems="10"
+            android:hint="Phone Number"
+            android:inputType="number|phone"
+            android:textColor="@color/newp"
+            android:textColorHint="@color/newp" />
+
+    </RelativeLayout>
+</LinearLayout>
