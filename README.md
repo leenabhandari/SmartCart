@@ -1,5 +1,5 @@
 #### SmartCart
-
+For updated repo - [https://bitbucket.org/leenabhandari/sc_repo/src/master/](Click here)
 [http://smartkart.000webhostapp.com/](http://smartkart.000webhostapp.com/)
 
 
