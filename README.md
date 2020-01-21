@@ -1,6 +1,7 @@
 #### SmartCart
 For full repository - https://bitbucket.org/leenabhandari/sc_repo/src/master/
-Video link - https://www.youtube.com/watch?v=gHlZvBZcuvE
+#### Video link 
+https://www.youtube.com/watch?v=gHlZvBZcuvE
 
 
 [http://smartkart.000webhostapp.com/](http://smartkart.000webhostapp.com/)
